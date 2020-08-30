@@ -1,2 +1,2 @@
 # Web-Destroyer-DDOS-Python3
-Layer 7 DDOS Method - Python3
+![ScreenShot](https://i.ibb.co/9GDxDPQ/Screenshot-2.png)
