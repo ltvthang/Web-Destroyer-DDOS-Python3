@@ -4,7 +4,7 @@ Windows 7-10
 
 # How to use/install
 - Download https://github.com/XmasSnow/Web-Destroyer-DDOS-Python3/releases/tag/v1.1
-- Unzip in own folder 
+- Unzip into its own folder 
 - python -m pip install -r requirements.txt
 - python "Web Destroyer Layer 7.py"
 
